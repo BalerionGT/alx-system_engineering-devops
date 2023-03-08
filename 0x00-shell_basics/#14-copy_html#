@@ -1,0 +1,6 @@
+; do
+    $
+done
+
+#!/bin/bash
+cp -u *.html ..
